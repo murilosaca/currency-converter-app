@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversor2</string>
+    <string name="saldos_da_carteira">Saldos da Carteira</string>
+    <string name="real_r">Real (R$):</string>
+    <string name="d_lar">Dólar ($):</string>
+    <string name="bitcoin_btc">Bitcoin (BTC):</string>
+    <string name="converter_recursos">Converter Recursos</string>
+</resources>
